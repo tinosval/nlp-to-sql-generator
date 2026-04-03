@@ -30,7 +30,7 @@ AI-powered tool that converts plain English business questions into SQL queries,
 - "Show me monthly sales trend"
 
 ## Live Demo
-[Your Streamlit Cloud URL - https://yourusername-nlp-to-sql-generator.streamlit.app]
+https://sql-assistant-app-fidsmhpsvb7iyoytmgapjn.streamlit.app/
 
 ## Installation
 
